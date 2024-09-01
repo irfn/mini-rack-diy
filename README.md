@@ -22,9 +22,13 @@ CAUTION: This is just an idea at the moment. Follow this at your own risk.
     - Standard Rack Width. 19 inch Rail width, 1 inch extra. Approx 20 inch width
     - Try to reduce depth like Rackmate, perhaps keep 305 mm (12 inch) max
 
-## Checks
+## Research
 
 1. mini ITX compatible case
+2. Generic 1U Rack ears alternatives
+3. Cooling requirements
+4. Side Panels
+5. Wheels to move
 
     
 ## Rack Frame
@@ -45,7 +49,8 @@ This looks to be possible using
 
 ## Rack Units
 
-
+- Patch Panel Blank
+    https://www.amazon.in/MX-Without-Management-System-3502/dp/B0BLW16DSR/
 - Cisco 3560-X/3750-X Series (1RU) Rack Mount Kit
 - 2 x  MASS RACK Steel 10 Inch Tray
     - https://www.amazon.in/MASS-RACK-Steel-Black-Centimeters/dp/B01N5FPBIP/ref
@@ -61,12 +66,14 @@ and should be much lesser at a Hardware shop
 
 ### Rack Frame Estimate
 1. Aluminium Extrusion
-    - 18x4 + 19x4 + 12x4 = 196inch ~ 5000mm = 559/900mm = 3105 ~ Rs 3200
-2. 4x 3way Corner connector = 2x599 = 1198
-3. M5 Nut M5 Threaded Pre Assembly T-Nut =  2x399 (25 each) [Approx 4 x 9U = 32 + 4x3 = 12 = 44] ~ Rs 798
-2. M5 X 10mm Button Head Allen Hex Socket = 342(50) = Rs 342
+    - 18 x 4 + 19 x 4 + 12 x 4 = 196 inch  = 500mm x 8  + 300mm x 4
+    -                                      = 299.00 x 8 + 192 x 4
+    -                                      = Rs. 3160
+2. 8 x 3way Corner connector = 8x149.00    = Rs. 1192
+3. M4 Nut M4 Threaded Pre Assembly T-Nut =  199.00 x 5 (10 each) [Approx 4 x 9U = 32 + 4x3 = 12 = 44] ~ Rs 995
+2. M4 X 8MM Button Head Allen Hex Socket = 79x5 = Rs 395
 
-Approx 5538
+Approx 5742
 
 ## References
 
